@@ -54,7 +54,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\GGEZ\PerfectPixelCamera\Scripts\PerfectPixelCamera.cs" />
-    <Compile Include="Assets\Scripts\blah.cs" />
+    <Compile Include="Assets\Scripts\hey look.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
